@@ -29,6 +29,9 @@ Welcome to our Project 2 info!
       * weatherdata.csv
       * data.csv
   * OUTPUT
+      * precip_over_time
+      * snow_over_time
+      * temperature_over_time
       * wind_direction_general
       * wind_direction_specific
   * REFERENCES
