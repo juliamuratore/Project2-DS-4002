@@ -35,4 +35,7 @@ Welcome to our Project 2 info!
       * [1] Available: https://open-meteo.com/en/docs/historical-weather-api. [Accessed: Feb. 28, 2024]
 
       * [2] “Complete Guide on Time Series Analysis in Python.” Available: https://kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-in-python. [Accessed: Feb. 28, 2024]
-      * [3] J. Brownlee, “How to Create an ARIMA Model for Time Series Forecasting in Python,” Machine Learning Mastery . Available: https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/ 
+      * [3] J. Brownlee, “How to Create an ARIMA Model for Time Series Forecasting in Python,” Machine Learning Mastery . Available: https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+   
+## Section 3: Instructions for Reproducibility
+1. 
