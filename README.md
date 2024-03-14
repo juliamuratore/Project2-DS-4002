@@ -26,8 +26,8 @@ Welcome to our Project 2 info!
       * Project2_EDA
       * Project_2_ARIMA
   * DATA
-      * weatherdata.csv
-      * data.csv
+      * weatherdata.csv - original download
+      * data.csv - cleaned and updated dataset
   * OUTPUT
       * precip_over_time
       * snow_over_time
