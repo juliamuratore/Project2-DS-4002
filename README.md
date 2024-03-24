@@ -29,7 +29,7 @@ Welcome to our Project 2 info!
       * Terms and conditions
   * SCRIPTS
       * Project2_EDA
-      * Project_2_ARIMA
+      * Project_2_time_series
   * DATA
       * weatherdata.csv - original download
       * data.csv - cleaned and updated dataset
