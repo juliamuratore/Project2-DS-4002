@@ -50,4 +50,4 @@ Welcome to our Project 2 info on Weather Metrics Formatting!
 ## Section 3: Instructions for Reproducibility
 1. Collecting Data: In order to compile the data set, Open-Meteo APIis must be accessed. A set of different weather metrics (max temperature, min temperature, mean temperature, sunrise, sunset,  daylight duration, sunshine duration, precipitation sum, rain sum, snowfall sum, precipitation hours, wind speed, and wind direction) must be pulled from the Historical Weather API. This data must pulled for each day from 2/11/2014 to 2/25/24 in Charlottesville, Virginia. The initial dataset will be downloaded as **weatherdata.csv** and filed into the **DATA** folder.
 2. Cleaning Data: No instances were dropped from the dataset since there were no missing values. Columns must be changed for readability, and parameters must be added for cardinal wind direction. The first 4 code blocks in **Project2_EDA.ipynb** must be run to make these changes and insert the edited data set, **data.csv**, into the **DATA** folder.
-3. ARIMA Analysis: Run the **Project_2_ARIMA.ipynb** file
+3. ARIMA Analysis: Run the **Project_2_time_series.ipynb** file
