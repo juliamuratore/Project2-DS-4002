@@ -17,6 +17,7 @@ Welcome to our Project 2 info on Weather Metrics Formatting!
   * matplotlib
   * statsmodels.graphics.tsaplots.plot_acf
   * statsmodels.graphics.tsaplots.plot_pcaf
+  * statsmodels.tsa.stattools import adfuller
 * Platforms
   * Windows
   * Mac
