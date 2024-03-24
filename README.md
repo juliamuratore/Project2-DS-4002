@@ -1,5 +1,5 @@
 # Project2-DS-4002
-Welcome to our Project 2 info!
+Welcome to our Project 2 info on Weather Metrics Formatting!
 
 ## Contents of our repository:
 > Section 1: Software and platforms
